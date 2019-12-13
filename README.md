@@ -33,15 +33,15 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the difference between an adaptive website and a fully responsive website?
-
+ adaptive can change to the scren size of the viewer 
 2. Describe what it means to be mobile first vs desktop first.
-
+the website was made orignally for mobile devices then adjusted to also look good on desktop
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
-
+it adjusts 1rem to = 10px that way it is easy to do the math 
 4. How would you describe preprocessing to someone new to CSS?
-
+you can store pieces of code that you use frequenly and call from then using the @ tag allows you to change every where it used with only changin one linen
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
-
+mixins are pretty cool,     setting up everything in the console can be annoying 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
@@ -50,10 +50,10 @@ Follow these steps to set up your project:
 
 ### Git Set up
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your project manager as collaborator on Github.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [x] Create a forked copy of this project.
+- [x] Add your project manager as collaborator on Github.
+- [x] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [x] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: git push origin `<firstName-lastName>`.
  
